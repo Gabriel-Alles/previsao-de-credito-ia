@@ -1,0 +1,2 @@
+Previsão de Score de Crédito de Clientes
+Este projeto utiliza aprendizado de máquina para prever o score de crédito de clientes com base em suas características, como profissão, comportamento de pagamento e histórico de crédito. O modelo de IA foi treinado com dados históricos de clientes e pode ser utilizado para prever a pontuação de crédito de novos clientes.
